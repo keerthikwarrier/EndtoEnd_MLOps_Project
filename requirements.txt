@@ -1,0 +1,6 @@
+# This file will have all the packages required to implement the project
+pandas
+numpy
+seaborn
+matplotlib
+-e .  #this is used to run setup.py
