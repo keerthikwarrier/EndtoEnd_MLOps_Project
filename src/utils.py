@@ -1,0 +1,2 @@
+"""Any functionality that need to be written in common for the entire application
+example if i want to read the dataset from a database i can write the MongoDB client here, if i want to save the model into the cloud"""

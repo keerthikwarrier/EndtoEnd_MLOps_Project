@@ -1,0 +1,1 @@
+#from this training pipeline i will try to call all the modules in components folder one by one

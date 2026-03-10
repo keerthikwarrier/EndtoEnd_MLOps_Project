@@ -1,0 +1,2 @@
+"""Components folder will include all the steps involved in our ML project
+example: data ingestion, data preprocessing , model training these will be created in the Components folder as seperate modules etc.."""
