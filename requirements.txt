@@ -3,4 +3,7 @@ pandas
 numpy
 seaborn
 matplotlib
--e .  #this is used to run setup.py
+scikit-learn
+catboost
+xgboost
+#-e .  #this is used to run setup.py
