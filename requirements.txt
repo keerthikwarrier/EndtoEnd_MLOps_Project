@@ -6,4 +6,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 #-e .  #this is used to run setup.py
